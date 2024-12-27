@@ -1,2 +1,2 @@
-10.200.252.98
-10.200.252.99
+10.200.252.98 ansible_user=stladmin
+10.200.252.99 ansible_user=stladmin
